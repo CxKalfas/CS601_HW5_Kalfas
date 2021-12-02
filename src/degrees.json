@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "degrees": {
+        "bachelors": {
+          "data": {
+            "type": "Bachelors of Arts in Brain and Cognitive Sciences",
+            "institution": "Boston University",
+            "date": "2016"
+          },
+        "masters": {
+          "data": {
+            "type": "Masters in Computer Information Systems",
+            "institution": "Boston University",
+            "date": "2024"
+          }
+        }
+      }
+      }
+    }
+  ]
+}
