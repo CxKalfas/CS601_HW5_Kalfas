@@ -7,9 +7,9 @@ async function getDegrees(url) {
       document.write(
         `My first degree was a ${data.data[0].degrees.bachelors.data.type} from ${data.data[0].degrees.bachelors.data.institution} in ${data.data[0].degrees.bachelors.data.date}`
       ),
-      document.write(
-        `My second degree was a ${data.data[0].degrees.masters.data.type} from ${data.data[0].degrees.masters.data.institution} in ${data.data[0].degrees.masters.data.date}`
-      )
+      // document.write(
+      //   `My second degree was a ${data.data[0].degrees.masters.data.type} from ${data.data[0].degrees.masters.data.institution} in ${data.data[0].degrees.masters.data.date}`
+      // )
     );
 }
 
