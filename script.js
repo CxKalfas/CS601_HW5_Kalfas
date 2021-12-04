@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         
       });
     
-      document.body.appendChild(table);
+      document.getElementById("card").appendChild(table);
     });
     
   });
