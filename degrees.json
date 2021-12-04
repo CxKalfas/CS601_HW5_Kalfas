@@ -1,0 +1,15 @@
+{
+	"degrees": [{
+			"school": "Boston Universtiy",
+			"major": "Psychological and Brain Sciences",
+      "year": 2016,
+			"type": "Bachelors"
+		},
+    {
+		"school": "Boston University",
+			"major": "Computer Information Systems",
+      "year": 2024,
+			"type": "Masters"
+		}
+	]
+}
