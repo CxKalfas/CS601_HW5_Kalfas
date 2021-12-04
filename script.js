@@ -4,7 +4,7 @@
 
 document.addEventListener("DOMContentLoaded", function(event) {
   
-  fetch('json.json')
+  fetch('degrees.json')
     .then(response => response.json())
     .then(data => { 
       console.log('My data', data);
